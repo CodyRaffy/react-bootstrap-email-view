@@ -1,0 +1,23 @@
+{
+  "name": "react-bootstrap-email-view",
+  "version": "1.0.0",
+  "description": "React component to display the details of an email styled with Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "email",
+    "view",
+    "display",
+    "readonly",
+    "subject",
+    "body",
+    "recipients",
+    "html"
+  ],
+  "author": "Cody Raffensperger <cody.raffensperger@gmail.com>",
+  "license": "ISC"
+}
